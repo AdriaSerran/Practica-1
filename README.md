@@ -2,7 +2,7 @@
 
 Aquesta pràctica m'ha servit bàsicament per iniciar-me amb l'ESP32 i el Platformio i per a realitzar el meu primer codi involucrant el material esmentat juntament amb un LED.
 
-# Codi
+· Codi
 
 #include <Arduino.h>
 int led = 13;
